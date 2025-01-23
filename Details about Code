@@ -1,0 +1,12 @@
+Hi! I have created different classes of this code so that it would be understandable for you guys that how is this all working.
+Its all based upon simulations, that how everything will work out like
+1. How the user will login or create account
+2. How he will check the balance, deposit money or withdraw money.
+3. What will be the steps he will follow during the creation of his account.
+The code is further divided into three different classes so that its easy for you guys.
+1. Main Code (All Classes are integrated in that file, Its the final form of the system).
+Further Divide into three parts:
+1.Main Interface (where you will choose the option to create or login to your account).
+2.Account creation class (Account login and everything).
+3.Account login (Chech balance, deposit or withdraw methods exists in that).
+Thanks for reading. Now you can use the code as you like.
